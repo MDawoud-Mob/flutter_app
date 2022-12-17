@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749602175200",
+    "project_id": "fir-course-969d6",
+    "storage_bucket": "fir-course-969d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749602175200:android:031d0aa8db8224cf513885",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749602175200-tm2g50dpgf0daoef91urqorkh08risl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmL5Uew2O8XhY6YnNq5EMwj1W1b3hOW9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749602175200-tm2g50dpgf0daoef91urqorkh08risl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
